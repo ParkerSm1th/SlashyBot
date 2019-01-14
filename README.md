@@ -10,4 +10,4 @@ Umm for the var api = 'haha' its legit just for the web API so idk if u wanna us
 
 # OH YA RUN npm install 
 
-#Please please please checkout [LICENSE](LICENSE)
+# Please please please checkout [LICENSE](LICENSE)
