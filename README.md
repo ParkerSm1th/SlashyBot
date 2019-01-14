@@ -9,3 +9,5 @@ Token is easy tbh
 Umm for the var api = 'haha' its legit just for the web API so idk if u wanna use that.. We did but for the panel which I'm not giving out (rn).
 
 # OH YA RUN npm install 
+
+#Please please please checkout [LICENSE](LICENSE.md)
